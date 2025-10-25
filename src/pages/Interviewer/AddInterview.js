@@ -276,7 +276,6 @@ const AddInterview = () => {
                 >
                   <MenuItem value="VIDEO">Video (Online)</MenuItem>
                   <MenuItem value="IN_PERSON">In-Person (On-site)</MenuItem>
-                  <MenuItem value="PHONE">Phone</MenuItem>
                 </TextField>
 
                 {/* Meeting Link or Venue */}
